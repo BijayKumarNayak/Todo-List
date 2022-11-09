@@ -1,0 +1,79 @@
+#todo{
+    border: 2px solid #ccc;
+    height: auto;
+    width: 600px;
+    margin: auto;
+    margin-top: 88px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, cyan, transparent);
+    box-shadow: 5px 5px 5px #ddd;
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: grey;
+    margin-top: 13px;
+
+}
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid grey;
+
+}
+input:hover{
+    border-color: darkorange;
+}
+.btn{
+    height: 38px;
+    width: 60px;
+   
+    border-radius: 10px;
+   
+  
+
+}
+form{
+    width: 401px;
+   
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#output{
+   
+    width: 400px;
+    margin-left: auto;
+    height: auto;
+    margin-right: auto;
+  
+}
+ul{
+   
+    list-style: none;
+    
+
+}
+li{
+   
+    width: 300px;
+  
+    margin-left: -20px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    align-items: center;
+    padding-top: 5px;
+    padding-left: 10px;
+    overflow: auto;
+    background-image: linear-gradient(192deg, orange, transparent);
+    
+}
+.render{
+    display: flex;
+    margin-top: 10px;
+   
+  
+}
